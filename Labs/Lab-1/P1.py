@@ -4,6 +4,14 @@
     Dentro de un entorno virtual (Windows)
     (AEDAS) pdoc --html P1.py 
 """
+__author__ = "Antonio Garmendia"
+__copyright__ = "Copyright 2024"
+__credits__ = ["eps-uam", "A. Garmendia", "A. Someone"]
+__license__ = "GPL"
+__version__ = "1.0.1"
+__maintainer__ = "Team"
+__email__ = "antonio.garmendia@uam.es"
+__status__ = "Production"
 
 import numpy as np
 
